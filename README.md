@@ -1,6 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-
-### DATE: 
+# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,9 +44,39 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+### LOAD STL FILE
+import the stl file of the 3d model into cura software.
 
-### Name:
-### Register Number:
+
+![image](https://github.com/gururamu08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707009/3b75d8df-dbbc-4733-821e-8b9ee202cea2)
+
+
+### ORIENTATION
+Proper orientation of object may reduce the use of support material thereby reduces the use of cost and time spend during printing process.Placing part of model with more surface area lie on print bed reduces the use of support material.
+
+![image](https://github.com/gururamu08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707009/5183103b-c9c0-4de8-86df-6120d5c48170)
+
+
+### SCALING
+scaling is helpful in increasing and reducing the product size along x,y,z axes.
+
+![image](https://github.com/gururamu08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707009/a09abf28-65b7-4c4b-9638-f96684a28e82)
+
+
+### MOVE
+move option is used change the print position of the product to be printed on the print bed.
+
+![image](https://github.com/gururamu08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707009/2c8901e5-7619-4f5a-b062-5a24f76d4436)
+
+
+### SLICING AND PREVEIWING THE MODEL
+
+
+![Screenshot 2023-06-13 094952](https://github.com/gururamu08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707009/cd544457-36b5-4a16-bde4-66c1337a824b)
+
+
+### Name: MOHAMMAD FAIZAL SK
+### Register Number: 212223240092
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
