@@ -72,9 +72,7 @@ move option is used change the print position of the product to be printed on th
 ### SLICING AND PREVEIWING THE MODEL
 
 
-![Screenshot 2023-06-13 094952](https://github.com/gururamu08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707009/cd544457-36b5-4a16-bde4-66c1337a824b)
-
-
+![image](https://github.com/user-attachments/assets/1f8e91d5-188b-470b-a7d0-6962e41bb652)
 ### Name: MOHAMMAD FAIZAL SK
 ### Register Number: 212223240092
 
